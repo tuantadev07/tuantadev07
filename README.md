@@ -1,6 +1,6 @@
 # Hi, mình là Tạ Anh Tuấn 👋
 
-Sinh viên **Công nghệ thông tin**, yêu thích **lập trình**, **giải thuật** và luôn cố gắng cải thiện bản thân từng ngày.
+~~Sinh viên **Công nghệ thông tin**, yêu thích **lập trình**, **giải thuật** và luôn cố gắng cải thiện bản thân từng ngày.~~
 
 ## Một chút về mình
 - Quan tâm đến **C/C++**, **problem solving** và tư duy logic
@@ -22,8 +22,8 @@ Sinh viên **Công nghệ thông tin**, yêu thích **lập trình**, **giải t
 
 ## Thành tích
 - Giải Nhì Học sinh giỏi Tin học cấp tỉnh (2024)
-- Huy chương Bạc Olympic Tin học Miền Trung - Tây Nguyên, bảng không chuyên (2025)
-- Tham gia ICPC National (2025)
+<!-- - Huy chương Bạc Olympic Tin học Miền Trung - Tây Nguyên, bảng không chuyên (2025)
+- Tham gia ICPC National (2025) -->
 
 ## Mục tiêu
 - Củng cố nền tảng lập trình và giải thuật
